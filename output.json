@@ -1,0 +1,26 @@
+[
+  {
+    "No": 1,
+    "key": "key_learn",
+    "en_US": "learn",
+    "ch_CN": "学习",
+    "ja_JP": "勉強",
+    "ko_KR": "공부"
+  },
+  {
+    "No": 2,
+    "key": "key_play",
+    "en_US": "play",
+    "ch_CN": "玩",
+    "ja_JP": "あそぶ",
+    "ko_KR": "놀다"
+  },
+  {
+    "No": 3,
+    "key": "key_movie",
+    "en_US": "movie",
+    "ch_CN": "电影",
+    "ja_JP": "映画",
+    "ko_KR": "영화"
+  }
+]
